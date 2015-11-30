@@ -7,3 +7,11 @@
 
 ## Regex ##
 * http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+## WebPack ##
+* http://zhuanlan.zhihu.com/FrontendMagazine/20367175?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+## Naming Guidelines ##
+* https://github.com/SalGnt/cscs?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+
