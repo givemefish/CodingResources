@@ -1,6 +1,10 @@
 # Coding Resources #
 > Some internet resources for front-end coding.
 
+## Javascript ##
+* RxJS
+  * [RxJS in depth](https://www.youtube.com/watch?v=KOOT7BArVHQ)
+
 ## CSS ##
 *   ClipPath
     * http://bubkoo.com/2015/07/22/working-with-shapes-in-web-design/
