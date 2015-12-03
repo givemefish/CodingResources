@@ -2,6 +2,8 @@
 > Some internet resources for front-end coding.
 
 ## Javascript ##
+* VanillaJS
+  * [This探討](http://gold.xitu.io/entry/5652e53560b202593ff77fa0)
 * RxJS
   * [RxJS in depth](https://www.youtube.com/watch?v=KOOT7BArVHQ)
 
