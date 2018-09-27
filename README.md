@@ -10,6 +10,7 @@
 ## CSS ##
 *   ClipPath
     * http://bubkoo.com/2015/07/22/working-with-shapes-in-web-design/
+    * [一个健壮且可扩展的 CSS 架构所需的8个简单规则](http://www.css88.com/archives/6878)
 
 ## Regex ##
 * http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
