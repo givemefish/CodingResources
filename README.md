@@ -22,6 +22,9 @@
 ## Naming Guidelines ##
 * https://github.com/SalGnt/cscs?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
+## Gallery ##
+* [Gradientify Icons](https://free.com.tw/gradientify-icons/): 免費互動式的 SVG 圖示集，專為漸層愛好者設計
+
 ## Tool ##
 * [Performance Test](https://www.webpagetest.org)
 * [List of Planets in Wikipedia (good for testing huge amount of data)] (https://en.wikipedia.org/wiki/List_of_named_minor_planets_(numerical))
