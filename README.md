@@ -24,6 +24,7 @@
 
 ## Gallery ##
 * [Gradientify Icons](https://free.com.tw/gradientify-icons/): 免費互動式的 SVG 圖示集，專為漸層愛好者設計
+* [CoreUI icons](https://github.com/coreui/coreui-icons)
 
 ## Tool ##
 * [Performance Test](https://www.webpagetest.org)
