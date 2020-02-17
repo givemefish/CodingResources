@@ -1,6 +1,9 @@
 # Coding Resources #
 > Some internet resources for front-end coding.
 
+## HTML ##
+* [Link vs Button](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+
 ## Javascript ##
 * VanillaJS
   * [This探討](http://gold.xitu.io/entry/5652e53560b202593ff77fa0)
