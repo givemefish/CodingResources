@@ -13,6 +13,7 @@
 ## CSS ##
 * ClipPath
   * http://bubkoo.com/2015/07/22/working-with-shapes-in-web-design/
+  * https://ishadeed.com/article/clip-path/
   * [一个健壮且可扩展的 CSS 架构所需的8个简单规则](http://www.css88.com/archives/6878)
 * Bootstrap
   * [Layout](https://antjanus.com/blog/web-development-tutorials/front-end-development/building-website-layout-bootstrap-4/)
