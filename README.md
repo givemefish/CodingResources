@@ -18,6 +18,7 @@
 * Bootstrap
   * [Layout](https://antjanus.com/blog/web-development-tutorials/front-end-development/building-website-layout-bootstrap-4/)
 * [CSS Stats](https://cssstats.com/): 檢視CSS數據
+* [I totally forgot about print style sheets](https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/): CSS for Print
 ## Regex ##
 * http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
